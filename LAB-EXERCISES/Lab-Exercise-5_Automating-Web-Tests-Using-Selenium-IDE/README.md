@@ -5,7 +5,7 @@ Create a small test suite of tests for De Anza's [Online Searchable Schedule](ht
 * Course Type: **Hybrid Classes**
 * Course Num: **74**
 * Course Title: **quality assurance**
-* Time of Day: **evening*
+* Time of Day: **evening**
 * Day of Week: **Monday & Wednesday**
 * Instructor: **pumphrey**
 * Location: **AT204**
